@@ -1,2 +1,0 @@
-# NTO
-National Technological Olympiad
