@@ -1,0 +1,1 @@
+You need to paste all data from every folder for folders with particular names in /home/clover/catkin_ws/src/clover/clover_simulation/ and then just launch Gazeb.desktop

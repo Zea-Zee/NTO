@@ -1,0 +1,143 @@
+material figures/green_square
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture green_square.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material figures/red_square
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture red_square.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material figures/yellow_circle
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture yellow_circle.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material figures/white_circle
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture white_circle.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material figures/green_pentagon
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture green_pentagon.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material figures/red_pentagon
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture red_pentagon.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material figures/blue_rhombus
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture blue_rhombus.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material figures/yellow_rhombus
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture yellow_rhombus.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}
+
+material figures/blue_hexagon
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture blue_hexagon.png
+                filtering none
+                scale 1.0 1.0
+            }
+        }
+    }
+}

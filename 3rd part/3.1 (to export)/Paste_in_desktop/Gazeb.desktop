@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Gazeb
+Comment=Run Clover drone simulation in Gazebo
+Exec=/bin/bash -c 'source /home/clover/catkin_ws/devel/setup.bash; roslaunch clover_simulation my.launch'
+Icon=gazebo
+Path=
+Terminal=true
+StartupNotify=false
+Name[en_US]=Gazeb
